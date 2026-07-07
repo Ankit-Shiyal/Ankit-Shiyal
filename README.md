@@ -160,7 +160,7 @@ I specialize in developing responsive user interfaces, secure REST APIs, authent
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Shiyal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Shiyal&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img width="48%" src="https://streak-stats.demolab.com?user=Ankit-Shiyal&theme=tokyonight&hide_border=true"/>
 
@@ -168,7 +168,7 @@ I specialize in developing responsive user interfaces, secure REST APIs, authent
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Shiyal&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Shiyal&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Shiyal&theme=tokyonight"/>
 
