@@ -21,7 +21,7 @@
 ---
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 
 Hi there! 👋 I'm **Ankit Shiyal**
 
