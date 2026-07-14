@@ -25,14 +25,13 @@
 
 Hi there! 👋 I'm **Ankit Shiyal**
 
-🚀 A passionate **Full Stack MERN Developer** from **Gujarat, India**, with a strong interest in building modern, scalable, and high-performance web applications.
+🚀 I am a **Full Stack MERN Developer** from **Gujarat, India**, with a strong interest in building modern, scalable, and high-performance web applications.
 
 I specialize in developing responsive user interfaces, secure REST APIs, authentication systems, and database-driven applications using the **MERN Stack**. I enjoy solving real-world problems through clean, maintainable, and efficient code.
 
 ### 💼 What I Do
 
 - 💻 Full Stack MERN Development
-- ⚛️ Build Responsive React.js Applications
 - 🚀 Develop REST APIs with Node.js & Express.js
 - 🗄️ Design MongoDB Database Architectures
 - 🔐 Implement JWT & Google OAuth Authentication
