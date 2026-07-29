@@ -152,56 +152,6 @@ I specialize in developing responsive user interfaces, secure REST APIs, authent
 ✔ Responsive Web Design
 ```
 
----
-
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Shiyal&show_icons=true&theme=tokyonight&hide_border=true"/> -->
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Ankit-Shiyal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Shiyal&layout=compact&theme=tokyonight&hide_border=true"/> -->
-
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Shiyal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Shiyal&theme=tokyo-night&hide_border=true&line=00F5FF&point=EC4899"/>
-
-</p>
-
----
-
-
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-💼 Open to **Internship**, **Backend Developer**, and **Full Stack MERN Developer** opportunities.
-
-⭐ If you like my work, don't forget to **Star** my repositories.
 
 ---
 
