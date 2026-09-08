@@ -60,6 +60,26 @@ I specialize in developing responsive user interfaces, secure REST APIs, authent
 
 ---
 
+# 📊 GitHub Stats & Streak
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit-Shiyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Ankit-Shiyal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Shiyal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Shiyal&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
 # 🛠️ Tech Arsenal
 
 <p align="center">
